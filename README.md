@@ -1,11 +1,13 @@
 <!-- Header Section -->
 <div align="center">
+<!-- Profile Banner -->
+<!--- banner --->
+<img src="./readme_banner.png" alt="Hello world">
 
 <!-- Animated Welcome -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakibul+Islam!;" />
 
-<!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md.+Rakibul+Islam&fontSize=60&fontAlign=50&fontAlignY=35&animation=fadeIn" />
+
 
 <!-- Status Cards -->
 <div align="center">
@@ -22,25 +24,40 @@
 <br/>
 
 <!-- About Section -->
-<div align="center">
+<div>
 
 ## 🧠 About Me
 
-<p align="center">
-  A passionate MERN-Stack Developer from Bangladesh. Creating elegant solutions to complex problems. I specialize in building scalable web applications with modern technologies and best practices.
+<p>
+  A passionate MERN-Stack Developer from Bangladesh. Creating responsive modern web apps. I specialize in building scalable web applications with modern technologies and best practices.
 </p>
 
 </div>
 
 <br/>
 
+<!-- Current Acitvity Section -->
+
+
+## 🎯 Current Activity
+
+- **📚 Currently Learning:** Express.js & Advanced Backend Development
+- **💼 Working On:** Parcel Delivery Web Application
+- **🛠️ Tech Stack:** Node.js, Express.js, MongoDB, React
+- **🎯 Current Focus:** Building RESTful APIs & User Authentication
+- **🚀 Next Goals:** Implement real-time tracking & payment integration
+
+
+
+<br/>
+
 <!-- Tech Stack Section -->
-<div align="center">
+<div>
 
 # 🛠️ Tech Stack
 
 ## 🌐 Frontend Development
-<div align="center">
+<div>
 
 | | | |
 |:---:|:---:|:---:|
@@ -50,7 +67,7 @@
 </div>
 
 ## 🔧 Backend Development
-<div align="center">
+<div>
 
 | | | 
 |:---:|:---:|
@@ -59,7 +76,7 @@
 </div>
 
 ## 🗄️ Databases
-<div align="center">
+<div>
 
 | | 
 |:---:|
@@ -68,12 +85,23 @@
 
 
 ## 🛠️ Tools & Platforms
-<div align="center">
+<div>
 
 | | | |
 |:---:|:---:|:---:|
 | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | 
+
+</div>
+
+## 🚀 Deployment & Hosting
+
+<div>
+
+| | | |
+|:---:|:---:|:---:|
+| ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) | 
 
 </div>
 
@@ -83,7 +111,7 @@
 <br/>
 
 <!-- GitHub Stats Section -->
-<div align="center">
+<div>
 
 ## 📊 GitHub Analytics
 
@@ -103,7 +131,7 @@
 <br/>
 
 <!-- Activity Graph -->
-<div align="center">
+<div>
 
 ## 📈 Activity Graph
 
@@ -114,37 +142,34 @@
 <br/>
 
 <!-- Projects Section -->
-<div align="center">
+<div>
 
 ## 💼 Featured Projects
 
-<!-- Project Cards -->
+
+<div>
+
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🎯 **Project One**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=your-repo-name&theme=radical)]()
-
-</td>
-<td width="50%">
-
-### 🔥 **Project Two**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=your-repo-name&theme=radical)]()
+### **Labora**
+[![Labora](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=labora-client&theme=radical)](https://github.com/programmerrakibul/labora-client)
+*Job portal platform*
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
-### 🚀 **Project Three**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=your-repo-name&theme=radical)]()
+### **Kid Venture**
+[![Kid Venture](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=kid-venture&theme=radical)](https://github.com/programmerrakibul/kid-venture)
+*Kids learning platform*
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 💡 **Project Four**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=your-repo-name&theme=radical)]()
+### **Assembly Endgame**
+[![Assembly](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=assembly-endgame&theme=radical)](https://github.com/programmerrakibul/assembly-endgame)
+*Task management tool*
 
 </td>
 </tr>
@@ -155,7 +180,7 @@
 <br/>
 
 <!-- Contact Section -->
-<div align="center">
+<div>
 
 ## 🤝 Connect With Me
 
