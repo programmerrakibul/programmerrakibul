@@ -24,15 +24,12 @@
 <br/>
 
 <!-- About Section -->
-<div>
+
 
 ## 🧠 About Me
-
 <p>
   A passionate MERN-Stack Developer from Bangladesh. Creating responsive modern web apps. I specialize in building scalable web applications with modern technologies and best practices.
 </p>
-
-</div>
 
 <br/>
 
@@ -52,58 +49,52 @@
 <br/>
 
 <!-- Tech Stack Section -->
-<div>
 
 # 🛠️ Tech Stack
 
 ## 🌐 Frontend Development
-<div>
+
 
 | | | |
 |:---:|:---:|:---:|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
  
-</div>
 
 ## 🔧 Backend Development
-<div>
 
 | | | 
 |:---:|:---:|
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
 
-</div>
 
 ## 🗄️ Databases
-<div>
 
 | | 
 |:---:|
  | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-</div>
+
 
 
 ## 🛠️ Tools & Platforms
-<div>
+
 
 | | | |
 |:---:|:---:|:---:|
 | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | 
 
-</div>
 
 ## 🚀 Deployment & Hosting
 
-<div>
+
 
 | | | |
 |:---:|:---:|:---:|
 | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 | ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) | 
 
-</div>
+
 
 ---
 
@@ -111,11 +102,11 @@
 <br/>
 
 <!-- GitHub Stats Section -->
-<div>
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+<p>
   <a href="https://github.com/programmerrakibul">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=programmerrakibul&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="programmerrakibul's GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerrakibul&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="programmerrakibul's Top Languages" />
@@ -128,26 +119,29 @@
   </a>
 </p>
 
-<br/>
-
-<!-- Activity Graph -->
-<div>
-
-## 📈 Activity Graph
-
-[![Rakibul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=programmerrakibul&theme=react-dark&hide_border=true&area=true)](https://github.com/programmerrakibul)
-
 </div>
 
 <br/>
 
+<!-- Activity Graph -->
+
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+[![Rakibul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=programmerrakibul&theme=react-dark&hide_border=true&area=true)](https://github.com/programmerrakibul)
+
+</div>
+
+
+<br/>
+
 <!-- Projects Section -->
-<div>
+
 
 ## 💼 Featured Projects
 
-
-<div>
 
 <table>
 <tr>
@@ -175,16 +169,15 @@
 </tr>
 </table>
 
-</div>
+
 
 <br/>
 
 <!-- Contact Section -->
-<div>
+
 
 ## 🤝 Connect With Me
 
-<div align="center">
 
 <!-- Social Media Links -->
 <a href="mailto:rakibul00206@gmail.com">
@@ -199,14 +192,12 @@
 
 
 
-</div>
 
-</div>
 
 <br/>
 
-<div align="center">
+<p>
 
 *"The expert in anything was once a beginner."* ✨
 
-</div>
+</p>
