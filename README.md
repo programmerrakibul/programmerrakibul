@@ -5,7 +5,8 @@
 <img src="./readme_banner.png" alt="Hello world">
 
 <!-- Animated Welcome -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakibul+Islam!;" />
+<h1>Hey there. I'm Rakibul Islam 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MERN-Stack-Developer;+Tech+Enthusiast;" />
 
 
 
