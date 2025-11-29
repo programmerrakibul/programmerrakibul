@@ -39,7 +39,7 @@
 
 ## 🎯 Current Activity
 
-- **📚 Currently Learning:** Express.js & Advanced Backend Development
+- **📚 Currently Exploring:** Express.js, Next.js, Next Auth & Advanced Backend Development
 - **💼 Working On:** Parcel Delivery Web Application
 - **🛠️ Tech Stack:** Node.js, Express.js, MongoDB, React
 - **🎯 Current Focus:** Building RESTful APIs & User Authentication
