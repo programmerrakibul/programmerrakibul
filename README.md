@@ -162,8 +162,8 @@
 </td>
 <td width="33%">
 
-### **HERO IO**
-[![Assembly](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=hero.io&theme=radical)](https://github.com/programmerrakibul/hero.io)
+### **CHRONOS**
+[![CHRONOS](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=chronos&theme=radical)](https://github.com/programmerrakibul/chronos)
 
 
 </td>
