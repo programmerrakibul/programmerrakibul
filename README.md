@@ -6,7 +6,7 @@
 
 <!-- Animated Welcome -->
 <h1>Hey there. I'm Rakibul Islam 👋</h1>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MERN-Stack-Developer;+Tech+Enthusiast;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MERN-Stack-Developer;+Full-Stack-Developer;Frontend-Developer;+JavaScript-Developer;+React-Developer;+Tech+Enthusiast;" />
 
 
 
