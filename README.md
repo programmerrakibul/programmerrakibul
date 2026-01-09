@@ -39,11 +39,11 @@
 
 ## 🎯 Current Activity
 
-- **📚 Currently Exploring:** Express.js, Next.js, Next Auth & Advanced Backend Development
-- **💼 Working On:** Parcel Delivery Web Application
+- **📚 Currently Exploring:** TypeScript, Next.js, and Next Auth for Authentication
+- **💼 Working On:** BookStore platform full-stack web application
 - **🛠️ Tech Stack:** Node.js, Express.js, MongoDB, React
-- **🎯 Current Focus:** Building RESTful APIs & User Authentication
-- **🚀 Next Goals:** Implement real-time tracking & payment integration
+- **🎯 Current Focus:** Enhancing UI/UX, optimizing performance
+- **🚀 Next Goals:** Implement real-time chat with agents
 
 
 
