@@ -55,25 +55,26 @@
 
 ## 🌐 Frontend Development
 
-
-| | | |
-|:---:|:---:|:---:|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| | | | |
+|:---:|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) | | | |
  
 
 ## 🔧 Backend Development
 
-| | | 
-|:---:|:---:|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| | | | |
+|:---:|:---:|:---:|:---:|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) | ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| ![NextAuth.js](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white) | | | |
 
 
 ## 🗄️ Databases
 
-| | 
-|:---:|
- | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| | |
+|:---:|:---:|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) |
 
 
 
@@ -144,23 +145,34 @@
 ## 💼 Featured Projects
 
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
+  <td width="50%">
+
+### **Book Wagon**
+[![Book Wagon](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=book-wagon-client&theme=radical)](https://github.com/programmerrakibul/book-wagon-client)
+
+
+</td>
+
+<td width="50%">
 
 ### **Labora**
 [![Labora](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=labora-client&theme=radical)](https://github.com/programmerrakibul/labora-client)
 
 
 </td>
-<td width="33%">
+</tr>
+
+<tr>
+<td width="50%">
 
 ### **Kid Venture**
 [![Kid Venture](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=kid-venture&theme=radical)](https://github.com/programmerrakibul/kid-venture)
 
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### **CHRONOS**
 [![CHRONOS](https://github-readme-stats.vercel.app/api/pin/?username=programmerrakibul&repo=chronos&theme=radical)](https://github.com/programmerrakibul/chronos)
