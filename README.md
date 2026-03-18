@@ -39,11 +39,11 @@
 
 ## 🎯 Current Activity
 
-- **📚 Currently Exploring:** TypeScript, Next.js, and Next Auth for Authentication
-- **💼 Working On:** BookStore platform full-stack web application
-- **🛠️ Tech Stack:** Node.js, Express.js, MongoDB, React
-- **🎯 Current Focus:** Enhancing UI/UX, optimizing performance
-- **🚀 Next Goals:** Implement real-time chat with agents
+- **📚 Currently Exploring:** TypeScript, Next.js, and Zod Validation
+- **💼 Working On:** Pet Shop API
+- **🛠️ Tech Stack:** TypeScript, Node.js, Express.js, MongoDB, Mongoose
+- **🎯 Current Focus:** Enhancing validation with Zod
+- **🚀 Next Goals:** Work on a Travel Web Application
 
 
 
