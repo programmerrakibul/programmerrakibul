@@ -40,9 +40,9 @@
 ## 🎯 Current Activity
 
 - **📚 Currently Exploring:** TypeScript, Next.js, and Zod Validation
-- **💼 Working On:** Pet Shop API
-- **🛠️ Tech Stack:** TypeScript, Node.js, Express.js, MongoDB, Mongoose
-- **🎯 Current Focus:** Enhancing validation with Zod
+- **💼 Working On:** PassGate (Simple Custom Authentication App)
+- **🛠️ Tech Stack:** Next.js, TypeScript, MongoDB, Mongoose
+- **🎯 Current Focus:** Verify using jwt token via email
 - **🚀 Next Goals:** Work on a Travel Web Application
 
 
