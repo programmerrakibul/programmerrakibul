@@ -39,11 +39,11 @@
 
 ## 🎯 Current Activity
 
-- **📚 Currently Exploring:** TypeScript, Next.js, and Zod Validation
-- **💼 Working On:** PassGate (Simple Custom Authentication App)
-- **🛠️ Tech Stack:** Next.js, TypeScript, MongoDB, Mongoose
-- **🎯 Current Focus:** Verify using jwt token via email
-- **🚀 Next Goals:** Work on a Travel Web Application
+- **📚 Currently Exploring:** PostgreSQL and Prisma
+- **💼 Working On:** SnapOrder (Order Management System for College project)
+- **🛠️ Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma
+- **🎯 Current Focus:** RBAC system implementation
+- **🚀 Next Goals:** Explore Redux
 
 
 
