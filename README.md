@@ -39,11 +39,11 @@
 
 ## 🎯 Current Activity
 
-- **📚 Currently Exploring:** PostgreSQL and Prisma
-- **💼 Working On:** SnapOrder (Order Management System for College project)
-- **🛠️ Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma
-- **🎯 Current Focus:** RBAC system implementation
-- **🚀 Next Goals:** Explore Redux
+- **📚 Currently Exploring:** Docker
+- **💼 Working On:** E-Commerce Backend System
+- **🛠️ Tech Stack:** Node.js, Express.js, TypeScript, PostgreSQL, Prisma
+- **🎯 Current Focus:** Learining Docker
+- **🚀 Next Goals:** Redis
 
 
 
