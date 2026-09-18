@@ -42,7 +42,7 @@
 - **📚 Currently Exploring:** Docker
 - **💼 Working On:** E-Commerce Backend System
 - **🛠️ Tech Stack:** Node.js, Express.js, TypeScript, PostgreSQL, Prisma
-- **🎯 Current Focus:** Learining Docker
+- **🎯 Current Focus:** Learning Docker
 - **🚀 Next Goals:** Redis
 
 
