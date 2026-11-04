@@ -40,8 +40,8 @@
 ## 🎯 Current Activity
 
 - **📚 Currently Exploring:** Docker
-- **💼 Working On:** E-Commerce Backend System
-- **🛠️ Tech Stack:** Node.js, Express.js, TypeScript, PostgreSQL, Prisma
+- **💼 Working On:** Proforma Invoice Generator
+- **🛠️ Tech Stack:** Next.js, TypeScript, MongoDB, Mongoose, Better Auth, Redux Toolkit
 - **🎯 Current Focus:** Learning Docker
 - **🚀 Next Goals:** Redis
 
