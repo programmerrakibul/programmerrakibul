@@ -1,21 +1,19 @@
-name: Generate Activity Graph
+name: Generate Isometric Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day at midnight UTC
-  workflow_dispatch:        # Allows you to run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate-graph:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Contribution Graph
-        uses: alexcerezo/activity-graph@v1
-
-      # The action will automatically update the README between the markers
+      - name: Generate Isometric Contribution Graph
+        uses: colincode0/github-readme@main   # or the latest tag if available
+        # Follow the repo instructions for exact inputs
