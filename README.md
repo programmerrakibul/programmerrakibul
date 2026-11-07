@@ -123,18 +123,21 @@
 <!-- Activity Graph -->
 
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake
 
-<div align="center">
-  
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/programmerrakibul/programmerrakibul/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/programmerrakibul/programmerrakibul/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 <br/>
 
