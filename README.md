@@ -103,19 +103,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<p>
-  <a href="https://github.com/programmerrakibul">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=programmerrakibul&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="programmerrakibul's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerrakibul&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="programmerrakibul's Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/programmerrakibul">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmerrakibul&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
+  <p>
+    <a href="https://github.com/programmerrakibul">
+      <img height="180em" src="./profile/stats.svg" alt="programmerrakibul's GitHub Stats" />
+      <img height="180em" src="./profile/top-langs.svg" alt="programmerrakibul's Top Languages" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/programmerrakibul">
+      <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
+    </a>
+  </p>
 </div>
 
 <br/>
