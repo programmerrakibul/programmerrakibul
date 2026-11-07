@@ -127,7 +127,8 @@
 
 <div align="center">
   
-[![Rakibul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=programmerrakibul&theme=react-dark&hide_border=true&area=true)](https://github.com/programmerrakibul)
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 </div>
 
