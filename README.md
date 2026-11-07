@@ -105,13 +105,13 @@
 <div align="center">
   <p>
     <a href="https://github.com/programmerrakibul">
-      <img height="180em" src="./profile/stats.svg" alt="programmerrakibul's GitHub Stats" />
-      <img height="180em" src="./profile/top-langs.svg" alt="programmerrakibul's Top Languages" />
+      <img height="180em" src="./stats.svg" alt="programmerrakibul's GitHub Stats" />
+      <img height="180em" src="./top-langs.svg" alt="programmerrakibul's Top Languages" />
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/programmerrakibul">
-      <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
+      <img src="./streak.svg" alt="GitHub Streak Stats" />
     </a>
   </p>
 </div>
